@@ -1,1 +1,1 @@
-# Dockerize-a-React-Application-with-Multi-Stage-Build
+n# Dockerize-a-React-Application-with-Multi-Stage-Build<img width="1536" height="1024" alt="f79ee95f-3f44-46df-834f-cc9fa57b9c31" src="https://github.com/user-attachments/assets/b2088627-e8c5-46e9-9278-09f828ca735c" />
